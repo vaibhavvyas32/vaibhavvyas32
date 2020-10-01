@@ -1,5 +1,8 @@
 ### Hi there 👋
  ✨ I’m currently in learning mode.
+ 🔭 I’m currently working on Designing adn Editing 
+ 
+-->
 <!--
 **GenxTheGamer/GenxTheGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
