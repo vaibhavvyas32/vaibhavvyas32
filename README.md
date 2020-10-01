@@ -1,6 +1,6 @@
 ### Hi there 👋
  -✨ I’m currently in learning mode.
- -🔭 I’m currently working on Designing and  Editing 
+ \n🔭 I’m currently working on Designing and  Editing 
  
 -->
 <!--
