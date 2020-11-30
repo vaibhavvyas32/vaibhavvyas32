@@ -11,4 +11,4 @@
 
 
 
-[banner]: https://raw.githubusercontent.com/genxthegamer/genxthegamer/master/BannerGithub.png
+[banner]: https://raw.githubusercontent.com/genxthegamer/genxthegamer/master/GithubProfile.png
