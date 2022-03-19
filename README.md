@@ -7,7 +7,7 @@
 
 [![Twitter: Vaibhav Vyas](https://img.shields.io/twitter/follow/GenxTheGamer?style=social)](https://twitter.com/genxthegamer)
 [![Linkedin: Vaibhav Vyas](https://img.shields.io/badge/-Vaibhav_Vyas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-vyas-b06103193//)](https://www.linkedin.com/in/vaibhav-vyas-b06103193/)
-[![GitHub genxthegamer](https://img.shields.io/github/followers/genxthegamer?label=Github&style=social)](https://github.com/genxthegamer)
+[![GitHub genxthegamer](https://img.shields.io/github/followers/vaibhavvyas32?label=Github&style=social)](https://github.com/vaibhavvyas32)
 
 
 
