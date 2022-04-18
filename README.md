@@ -1,7 +1,7 @@
 
 
 
-![banner]
+<!-- ![banner] -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genxthegamer&label=Views&color=blue&style=plastic" alt="GenxTheGamer" /> </p>
 
