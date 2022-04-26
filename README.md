@@ -17,7 +17,7 @@
 <br>
 
 **Here's some info about me:**
-- 👨‍🎓 CS Engineer (Passing in 2022)
+- 👨‍🎓 CS Engineer (Graduating in 2022)
 - <img height="15" src="https://developers.google.com/site-assets/images/home/google_developers_logo.png"> DSC Tech Lead (2020-21)
 - 🎮 Gamer
 - 📧 How to reach me: [Email](mailto:vaibhavvyas32@gmail.com)
