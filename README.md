@@ -42,4 +42,14 @@
 
 </span>
 <br>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvyas32&layout=compact" alt="My GitHub langs">
+</p>
+<br>
+
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/?username=vaibhavvyas32&show_icons=true" alt="My GitHub Stats">  
+</p>
 <!-- [banner]: https://raw.githubusercontent.com/genxthegamer/genxthegamer/master/GithubProfile.png -->
