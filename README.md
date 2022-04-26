@@ -3,7 +3,7 @@
 
 <!-- ![banner] -->
 
-## Sup? I'm Vaibhav
+## ✌️ Sup? I'm Vaibhav
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genxthegamer&label=Views&color=blue&style=plastic" alt="GenxTheGamer" /> 
 <a href="https://twitter.com/genxthegamer"><img src="https://img.shields.io/twitter/follow/genxthegamer?style=social" alt="genxthegamer" /></a> </p> 
@@ -16,11 +16,12 @@
 
 <br>
 
-**🧐 Here's some info about me:**
+**Here's some info about me:**
 - <img height="15" src="https://developers.google.com/site-assets/images/home/google_developers_logo.png"> DSC Tech Lead (2020-21)
-- 📫 How to reach me: [Email](mailto:vaibhavvyas32@gmail.com)
-- 🛠 in React, C++ , Javascript
-- <img height="20" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png">Visit our channel [SMGenz](https://www.youtube.com/c/SMGenz?sub_confirmation=1)
+- 🎮 Gamer
+- 📧 How to reach me: [Email](mailto:vaibhavvyas32@gmail.com)
+- 👨‍💻 in React, C++ , Javascript
+- <img height="20" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png">Visit our channel [SMGenz](https://www.youtube.com/channel/UCcpucKis7NqCR7cy2Hl2Qpg?sub_confirmation=1)
 <br>
 
 **Languages and Tools I've worked and work with:**  
