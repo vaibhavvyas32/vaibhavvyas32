@@ -22,7 +22,6 @@
 - <img height="15" src="https://developers.google.com/site-assets/images/home/google_developers_logo.png"> DSC Tech Lead (2020-21)
 - 📫 How to reach me: [Email](mailto:vaibhavvyas32@gmail.com)
 - <img height="20" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png">Visit our channel [SMGenz](https://www.youtube.com/c/SMGenz?sub_confirmation=1)
-- 
 <br>
 
 **Languages and Tools I've worked and work with:**  
