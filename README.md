@@ -6,8 +6,7 @@
 ## Sup? I'm Vaibhav
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genxthegamer&label=Views&color=blue&style=plastic" alt="GenxTheGamer" /> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavvyas32" alt="vv32" /> <a href="https://twitter.com/genxthegamer"><img src="https://img.shields.io/twitter/follow/genxthegamer?style=social" alt="genxthegamer" /></a> </p> 
+<a href="https://twitter.com/genxthegamer"><img src="https://img.shields.io/twitter/follow/genxthegamer?style=social" alt="genxthegamer" /></a> </p> 
 <a href="https://twitter.com/genxthegamer"><img align="left" alt="GenxTheGamer | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" /></a>    <a href="https://www.linkedin.com/in/vaibhavvyas32/" ><img align="left" alt="Vaibhav's Linkedin" width="26px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a> <a href="https://vaibhavvyas32.medium.com/"><img align="left" alt="Vaibhav's Medium" width="26px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" /></a>
 
 [![GitHub genxthegamer](https://img.shields.io/github/followers/vaibhavvyas32?label=Github&style=social)](https://github.com/vaibhavvyas32)
