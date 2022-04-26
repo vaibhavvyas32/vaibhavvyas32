@@ -9,7 +9,7 @@
 [![Linkedin: Vaibhav Vyas](https://img.shields.io/badge/-Vaibhav_Vyas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-vyas-b06103193//)](https://www.linkedin.com/in/vaibhav-vyas-b06103193/)
 [![GitHub genxthegamer](https://img.shields.io/github/followers/vaibhavvyas32?label=Github&style=social)](https://github.com/vaibhavvyas32)
 
-<img align="right"  height="250" style="border-radius:250px" alt="GIF" src="https://avatars.githubusercontent.com/u/52570863?v=4"/>
+<img align="right"  height="200" style="border-radius:200px" alt="GIF" src="https://avatars.githubusercontent.com/u/52570863?v=4"/>
 
 <br>
 
