@@ -10,8 +10,9 @@
 [![GitHub genxthegamer](https://img.shields.io/github/followers/vaibhavvyas32?label=Github&style=social)](https://github.com/vaibhavvyas32)
 
 <br>
-<img align="right"  height="250" style="border-radius:250px" alt="GIF" src="https://avatars.githubusercontent.com/u/52570863?s=400&u=b367fb9892fd46b8e18787d1eaba5a5a4e54870e&v=4" />
- 
+
+
+<img align="right"  height="250" style="border-radius:250px" alt="GIF" src="https://avatars.githubusercontent.com/u/52570863?s=400&u=b367fb9892fd46b8e18787d1eaba5a5a4e54870e&v=4"/>
  
  
 
