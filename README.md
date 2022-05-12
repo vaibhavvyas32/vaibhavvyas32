@@ -16,7 +16,7 @@
 
 <br>
 
-**Here's some info about me:**
+**My Info :**
 - 👨‍🎓 CS Engineer (Graduating in 2022)
 - <img height="15" src="https://developers.google.com/site-assets/images/home/google_developers_logo.png"> DSC Tech Lead (2020-21)
 - 🎮 Gamer
@@ -26,7 +26,7 @@
 - 📜 Portfolio [Website](https://vv32portfolio.vercel.app)
 <br>
 
-**Languages and Tools I've worked and work with:**  
+**Languages and Tools :**  
 
 <span>
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
