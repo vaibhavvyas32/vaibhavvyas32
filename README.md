@@ -24,7 +24,7 @@
 - 👨‍💻 in React, C++ , Javascript
 - <img height="20" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png"> Visit our channel [SMGenz](https://www.youtube.com/channel/UCcpucKis7NqCR7cy2Hl2Qpg?sub_confirmation=1)
 - 📜 Portfolio [Website](https://vv32portfolio.vercel.app)
-- Codechef [Profile](https://www.codechef.com/users/vaibhavvyas32)
+- 👨‍🍳 [Codechef](https://www.codechef.com/users/vaibhavvyas32) Profile
 <br>
 
 **Languages and Tools :**  
