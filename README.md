@@ -3,7 +3,7 @@
 
 <!-- ![banner] -->
 
-## ✌️ Sup? I'm Vaibhav
+## ✌️ Hello Dev
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genxthegamer&label=Views&color=blue&style=plastic" alt="GenxTheGamer" /> 
 <a href="https://twitter.com/genxthegamer"><img src="https://img.shields.io/twitter/follow/genxthegamer?style=social" alt="genxthegamer" /></a> </p> 
