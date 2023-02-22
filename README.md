@@ -22,7 +22,7 @@
 - 🎮 Gamer
 - 📧 How to reach me: [Email](mailto:vaibhavvyas33@outlook.com)
 - 👨‍💻 in React, C++ , Javascript
-- 📜 Portfolio [Website](https://vv32portfolio.vercel.app)
+- 📜 Portfolio [Website](https://vv32pf.netlify.app)
 - 👨‍🍳 [Codechef](https://www.codechef.com/users/vaibhavvyas32) Profile
 <br>
 
