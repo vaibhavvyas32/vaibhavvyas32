@@ -17,7 +17,7 @@
 <br>
 
 **My Info :**
-- 👨‍🎓 CS Engineer
+- 👨‍🎓 CS Engineer | Masters | TIET'25
 - <img height="15" src="https://developers.google.com/site-assets/images/home/google_developers_logo.png"> DSC Tech Lead (2020-21)
 - 🎮 Gamer
 - 📧 How to reach me: [Email](mailto:vaibhavvyas33@outlook.com)
