@@ -5,7 +5,7 @@
 
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=genxthegamer&label=Views&color=blue&style=plastic" alt="GenxTheGamer" /> 
+<p align="left"> <img src="https://camo.githubusercontent.com/9a4dddbd75d9f5b7229b1fe28b2a8847185317bceb04b4cd27c1861472839c94/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d67656e7874686567616d6572266c6162656c3d566965777326636f6c6f723d626c7565267374796c653d706c6173746963" alt="GenxTheGamer" /> 
 <a href="https://twitter.com/genxthegamer"><img src="https://img.shields.io/twitter/follow/genxthegamer?style=social" alt="genxthegamer" /></a> </p> 
 <a href="https://twitter.com/genxthegamer"><img align="left" alt="GenxTheGamer | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" /></a>    <a href="https://www.linkedin.com/in/vaibhavvyas32/" ><img align="left" alt="Vaibhav's Linkedin" width="26px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a> <a href="https://vaibhavvyas32.medium.com/"><img align="left" alt="Vaibhav's Medium" width="26px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" /></a>
 
