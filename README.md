@@ -21,9 +21,8 @@
 - <img height="15" src="https://developers.google.com/site-assets/images/home/google_developers_logo.png"> DSC Tech Lead (2020-21)
 - 🎮 Gamer
 - 📧 How to reach me: [Email](mailto:vaibhavvyas33@outlook.com)
-- 👨‍💻 in React, C++ , Javascript
+- 👨‍💻 in Python , React
 - 📜 Portfolio [Website](https://vv32pf.netlify.app)
-- 👨‍🍳 [Codechef](https://www.codechef.com/users/vaibhavvyas32) Profile
 <br>
 
 **Tech Used :**  
