@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://vv32pf.netlify.app/">
+  <a href="https://vvyas.in/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=620&lines=Building+fast%2C+clean+web+apps+end+to+end;React+%2F+Next.js+%E2%80%A2+Node.js+%2F+Express+%E2%80%A2+MongoDB;Cut+backend+latency+by+70%25+for+1%2C500%2B+users;Shipped+Ghar+Hisaab+%E2%80%94+an+offline+Android+app" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://vv32pf.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-vv32pf.netlify.app-06b6d4?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://vvyas.in/"><img src="https://img.shields.io/badge/Portfolio-vvyas.in-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/vaibhavvyas32"><img src="https://img.shields.io/badge/LinkedIn-vaibhavvyas32-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:vaibhavvyas32@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=vaibhavvyas32&style=for-the-badge&color=0f172a&label=Profile+views" alt="Profile views" />
